@@ -1,0 +1,50 @@
+Note: Ran on my (Windows) laptop with a GeForce 1060 Graphics card. 
+
+1.
+CPU Run Time: 0.386 sec
+
+GPU Memory Allocation Time: 0.365 sec
+
+GPU Copy Memory to Device Time: 0.01 sec
+
+GPU Kernel Run Time: 0 sec
+
+GPU Copy Memory to Host Time: 0.021 sec
+
+GPU Total Run Time: 0.397 sec
+Result comparison passed.
+Press any key to continue . . .
+
+
+2.
+
+CPU Run Time: 0.393 sec
+
+GPU Memory Allocation Time: 0.359 sec
+
+GPU Copy Memory to Device Time: 0.009 sec
+
+GPU Kernel Run Time: 0 sec
+
+GPU Copy Memory to Host Time: 0.023 sec
+
+GPU Total Run Time: 0.395 sec
+Result comparison passed.
+Press any key to continue . . .
+
+
+3.
+
+CPU Run Time: 0.411 sec
+
+GPU Memory Allocation Time: 0.345 sec
+
+GPU Copy Memory to Device Time: 0.009 sec
+
+GPU Kernel Run Time: 0 sec
+
+GPU Copy Memory to Host Time: 0.02 sec
+
+GPU Total Run Time: 0.375 sec
+Result comparison passed.
+Press any key to continue . . .
